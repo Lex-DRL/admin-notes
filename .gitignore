@@ -1,0 +1,91 @@
+# Organized+extended by Lex-DRL: https://github.com/Lex-DRL/git-template-gamedev
+
+# Common
+# ----------------------------
+
+# Temp files/folders:
+*.tmp
+*.temp
+tmp*/
+temp*/
+
+# Programming - general
+*.log
+
+# OS-generated - Windows
+# ----------------------------
+
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# OS-generated - Apple
+# ----------------------------
+
+.DS_Store*
+.AppleDouble
+.LSOverride
+
+# ... and thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# =========================================================================== #
+# 	IDEs
+# =========================================================================== #
+
+# JetBrains IDEs: PyCharm / Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+.vscode/
+.claude/
+.history/
+*.code-workspace
+
+
+# =========================================================================== #
+# 	Python-related
+# =========================================================================== #
+# src: https://github.com/github/gitignore/blob/main/Python.gitignore
+
+# Environments
+.env*
+.venv*
+env*/
+venv*/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+
+# =========================================================================== #
+# 	Repo-specific
+# =========================================================================== #
+# add here
